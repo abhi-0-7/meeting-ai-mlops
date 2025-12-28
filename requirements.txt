@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+spacy
+gensim
+mlflow
+dvc
+fastapi
+uvicorn[standard]
+transformers
+datasets
+torchaudio
+librosa
+soundfile
+python-multipart
+jinja2
+pydantic
